@@ -16,7 +16,7 @@ url_source: ""
 url_video: ""
 title: Nano adhesively bonded strap joints subjected to tensile loading
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
