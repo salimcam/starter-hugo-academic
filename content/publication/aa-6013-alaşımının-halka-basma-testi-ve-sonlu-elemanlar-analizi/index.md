@@ -6,10 +6,8 @@ publication_types:
   - "1"
 authors:
   - ÇAM S
-  - AKPINAR S
-  - AKBULUT H
-  - GÜLTEKİN K
-  - ÖZEL A
+  - SOFUOĞLU H
+  - CORA Ö. N
 author_notes: []
 publication: 20. ULUSAL MEKANİK KONGRESİ
 summary: ""
