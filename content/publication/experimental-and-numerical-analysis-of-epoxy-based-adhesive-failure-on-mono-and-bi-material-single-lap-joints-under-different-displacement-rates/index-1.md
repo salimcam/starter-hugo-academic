@@ -21,7 +21,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - kahramanzade H
+  - KAHRAMANZADE H
   - ÇAM S
   - ORHAN O
   - ÖZEL A
