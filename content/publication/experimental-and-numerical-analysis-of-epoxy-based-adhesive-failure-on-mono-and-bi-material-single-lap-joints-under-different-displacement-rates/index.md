@@ -1,21 +1,15 @@
 ---
-abstract: Development  in  material  science  imposes  to  use  different  materials
-  in production. This causes a problem for joining different materials
-  because  traditional  joining  techniques  such  as  welding  could  not  overcome  this  problem  in  industries  such  as  automotive.  Hence,  adhesive  bonding  overcomes  this  problem  by  its  superiorities  to  join  different  materials.  The  joint  strength  of  epoxy-based  adhesives  is  affected  by  adhesive  thickness,  adherent’s
-  surface quality, and curing conditions. In this study, two different
-  materials  (SAE  304  and  AL7075)  were  bonded  by  epoxy  adhesive  (3M  DP460NS)
-  as single lap joint (SLJ) of Aluminum-Aluminum, Steel-Steel, and
-  Aluminum-Steel. The effects of adhesive thickness (0.05, 0.13, 0.25 mm) and
-  surface roughness (281, 193, 81 nm) to strength were compared. SLJs were
-  tested for 1, 10, 25 and 50 mm/min
-  displacement  rates.  Adhesive  surface  structures   were   imaged   by   Scanning   Electron   Microscopy   (SEM)   to   investigate  adhesive  fractures.  Surface  roughnesses  were  examined  by  using  Atomic  Force  Microscopy  (AFM)  to  compare  its  influence  on  failure  load.  Finite
-  Element Analysis (FEA) was conducted by using Cohesive Zone Model with ANSYS
-  18.0 software to obtain stress distribution of
-  adhesive.  Optimum  values  according  to  the  present  conditions  of  the  thickness  (0.13mm)  and  roughness  (<200nm)  were  determined.  Experimental  results  were
-  demonstrated that while displacement rates rose, failure loads increased as
-  well. FEA analysis was fit to experimental results. It has been observed that
-  along with material type, peel stresses become an important factor for joint
-  strength.
+abstract: This study experimentally determines the tensile failure load of the
+  nanocomposite adhesive – obtained by adding nanostructures to the adhesive –
+  using four different methods in single-lap joints. For the study, adhesively
+  bonded single-lap joints were produced by using DP460 liquid structural epoxy
+  as the adhesive, AA2024-T3 aluminum alloy as the adherend and graphene as the
+  nanostructure. When the failure load obtained from the experiments was
+  examined, it was seen that, while the nanostructure-reinforced methods
+  indicated in the literature have a great effect on the failure load of the
+  joint and the standard deviation, a new method developed in this study
+  increased the failure load of the joint and minimized the standard deviation.
+  These improvements increased the reliability and reproducibility of the joint.
 slides: ""
 url_pdf: ""
 publication_types:
