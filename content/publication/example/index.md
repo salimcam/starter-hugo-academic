@@ -5,6 +5,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
+  - admin
   - ÇAM S.
   - AKPINAR S.
   - AKBULUT H.
