@@ -9,11 +9,11 @@ authors:
   - SOFUOĞLU H
   - CORA Ö. N
 author_notes: []
-publication: 20. ULUSAL MEKANİK KONGRESİ
+publication: ULUSAL MEKANİK KONGRESİ
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "*UMK20*"
+publication_short: "*UMK 20*"
 url_source: ""
 url_video: ""
 title: AA 6013 Alaşımının Halka Basma Testi ve Sonlu Elemanlar Analizi
