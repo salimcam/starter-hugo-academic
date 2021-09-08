@@ -12,10 +12,11 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Salim Çam
-  - Robert Ford
-  - Adnan Özel
-  - Osman Orhan
+  - ÇAM S.
+  - AKPINAR S.
+  - AKBULUT H.
+  - GÜLTEKİN K.
+  - ÖZEL A.
 author_notes:
   - Equal contribution
   - Equal contribution
