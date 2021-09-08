@@ -6,11 +6,6 @@ publication_types:
   - "1"
 authors:
   - admin
-  - ÇAM S
-  - ÇAM S
-  - ÇAM S
-  - ÇAM S
-  - ÇAM S
 author_notes: []
 publication: International Conference on Cohesive Societies
 summary: ""
