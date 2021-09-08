@@ -17,9 +17,7 @@ authors:
   - AKBULUT H
   - GÜLTEKİN K
   - ÖZEL A
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: In *Wowchemy Conference*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
