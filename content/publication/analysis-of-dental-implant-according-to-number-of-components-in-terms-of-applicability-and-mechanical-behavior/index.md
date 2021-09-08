@@ -27,7 +27,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-09-08T08:18:56.581Z
+date: 2018-10-08T08:18:56.581Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
