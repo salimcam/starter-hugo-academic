@@ -1,6 +1,7 @@
 ---
 title: Salim ÇAM
 role: Research Assistant of Mechanical Engineering
+avatar_filename: avatar.jpeg
 bio: My research interests include adhesive joints, impact mechanics, finite
   element modeling, and composite materials.
 interests:
