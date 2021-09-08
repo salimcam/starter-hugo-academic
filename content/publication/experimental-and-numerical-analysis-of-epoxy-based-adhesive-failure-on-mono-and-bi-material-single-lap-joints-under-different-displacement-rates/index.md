@@ -21,20 +21,25 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - KAHRAMANZADE H
+  - GÜLTEKİN K
+  - AKPINAR S
+  - GÜRSES A
+  - EROĞLU Z
   - ÇAM S
-  - ORHAN O
+  - AKBULUT H
+  - KESKİN Z
   - ÖZEL A
 author_notes: []
-publication: Fracture and Structural Integrity
+publication: " Composites Part B: Engineering"
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: Experimental and numerical analysis of epoxy based adhesive failure on
-  mono- and bi-material single lap joints under different displacement rates
+title: The effects of graphene nanostructure reinforcement on the adhesive
+  method and the graphene reinforcement ratio on the failure load in adhesively
+  bonded joints
 doi: ""
 featured: true
 tags: []
@@ -43,7 +48,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2020-04-01T08:28:06.809Z
+date: 2016-08-01T08:28:06.809Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
