@@ -15,10 +15,10 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/salimcam
+    link: https://twitter.com/salimcam60
   - icon: github
     icon_pack: fab
-    link: https://github.com/salimcam60
+    link: https://github.com/salimcam
 organizations:
   - name: Erzincan Binali Yıldırım University
     url: https://www.ebyu.edu.tr
