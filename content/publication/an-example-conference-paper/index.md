@@ -12,11 +12,11 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - ÇAM S.
-  - AKPINAR S.
-  - AKBULUT H.
-  - GÜLTEKİN K.
-  - ÖZEL A.
+  - ÇAM S
+  - AKPINAR S
+  - AKBULUT H
+  - GÜLTEKİN K
+  - ÖZEL A
 author_notes:
   - Equal contribution
   - Equal contribution
