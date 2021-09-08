@@ -26,7 +26,7 @@ url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: An example conference paper 2
 doi: ""
 featured: true
 tags: []
@@ -38,7 +38,7 @@ image:
   preview_only: false
 date: 2021-09-08T06:55:27.894Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
