@@ -14,10 +14,8 @@ publication_types:
 authors:
   - admin
   - Robert Ford
-  - Robert Ford
-  - Robert Ford
-  - Robert Ford
-  - Robert Ford
+  - Adnan Özel
+  - Osman Orhan
 author_notes:
   - Equal contribution
   - Equal contribution
