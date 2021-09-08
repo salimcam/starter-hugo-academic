@@ -6,11 +6,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - ÇAM S.
-  - AKPINAR S.
-  - AKBULUT H.
-  - GÜLTEKİN K.
-  - ÖZEL A.
+  - ÇAM S
 author_notes: []
 publication: International Conference on Cohesive Societies
 summary: ""
