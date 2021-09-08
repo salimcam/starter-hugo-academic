@@ -12,7 +12,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
+  - Salim Çam
   - Robert Ford
   - Adnan Özel
   - Osman Orhan
