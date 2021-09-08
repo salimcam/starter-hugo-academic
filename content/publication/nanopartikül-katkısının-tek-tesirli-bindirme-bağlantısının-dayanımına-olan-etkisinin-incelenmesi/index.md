@@ -5,7 +5,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Kahramanzade H
+  - KAHRAMANZADE H
   - ÇAM S
   - ORHAN O
   - ÖZEL A
