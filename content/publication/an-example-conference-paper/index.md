@@ -14,6 +14,10 @@ publication_types:
 authors:
   - admin
   - Robert Ford
+  - Robert Ford
+  - Robert Ford
+  - Robert Ford
+  - Robert Ford
 author_notes:
   - Equal contribution
   - Equal contribution
