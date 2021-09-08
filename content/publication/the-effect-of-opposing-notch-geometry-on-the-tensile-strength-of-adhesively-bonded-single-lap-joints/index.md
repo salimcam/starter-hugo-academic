@@ -27,7 +27,7 @@ abstract: >-
 
   This study shows that higher joint strengths can be accomplished by using the same joint configuration by notching adherends.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
