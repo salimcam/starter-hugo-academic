@@ -40,4 +40,4 @@ highlight_name: true
 ---
 I am a research assistant in Mechanical Engineering Department at the Erzincan Binali Yıldırım University. I completed my MSc at the same university and my undergraduate studies at Uludağ University. Currently, I am working on my PhD thesis. My interests lie in adhesive joints, impact mechanics, finite element modeling, and composite materials.
 
-I live with my wife, my son, and my daughter. I am a proud dad of two monsters, tries to survive the struggle of existence in our house.
+I live with my wife, my sons, and my daughter. I am a proud dad of three monsters, tries to survive the struggle of existence in our house.
