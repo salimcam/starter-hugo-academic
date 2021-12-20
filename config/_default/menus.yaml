@@ -15,7 +15,7 @@ main:
     weight: 40
   - name: Lectures
     url: "lectures"
-    weight: 40
+    weight: 100
   - name: Contact
     url: "#contact"
     weight: 130
