@@ -1,4 +1,5 @@
 ---
+widget: pages
 title: Lectures
 cms_exclude: true
 
