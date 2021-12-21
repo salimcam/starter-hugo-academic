@@ -1,15 +1,15 @@
 ---
 title: Salim ÇAM
-role: Research Assistant of Mechanical Engineering
+role: Araştırma Görevlisi (Makine Mühendisliği)
 avatar_filename: avatar.jpeg
-bio: My research interests include adhesive joints, impact mechanics, finite
-  element modeling, and composite materials.
+bio: Yapıştırma bağlantıları, darbe mekaniği, sonlu
+  elemanlar analizi, ve kompozit malzemeler üzerine çalışmaktayım.
 interests:
-  - Impact Mechanics
-  - Finite Element Modeling
-  - Composite Materials
-  - Philosophy
-  - Programming
+  - Darbe Mekaniği
+  - Sonlu Elemanlar Analizi
+  - Kompozit Malzemeler
+  - Felsefe
+  - Programlama
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,19 +25,20 @@ organizations:
     url: https://www.ebyu.edu.tr
 education:
   courses:
-    - course: PhD in Mechanical Engineering
-      institution: Karadeniz Technical University
+    - course: Doktora
+      institution: Karadeniz Teknik Üniversitesi
       year: ""
-    - course: MEng in Mechanical Engineering
-      institution: Erzincan Binali Yıldırım University
+    - course: Yüksek Lisans
+      institution: Erzincan Binali Yıldırım Üniversitesi
       year: 2016
-    - course: BSc in Mechanical Engineering
-      institution: Uludağ University
+    - course: Lisans
+      institution: Uludağ Üniversitesi
       year: 2013
 email: ""
 superuser: true
 highlight_name: true
 ---
-I am a research assistant in Mechanical Engineering Department at the Erzincan Binali Yıldırım University. I completed my MSc at the same university and my undergraduate studies at Uludağ University. Currently, I am working on my PhD thesis. My interests lie in adhesive joints, impact mechanics, finite element modeling, and composite materials.
 
-I live with my wife, my sons, and my daughter. I am a proud dad of three monsters, tries to survive the struggle of existence in our house.
+Erzincan Binali Yıldırım Üniversitesi Makine Mühendisliği Bölümü'nde araştırma görevlisiyim. Yüksek lisansı aynı üniversitede, lisans eğitimimi ise Uludağ Üniversitesi'nde tamamladım. Şu anda doktora çalışmalarımı sürdürmekteyim. Yapıştırma bağlantıları, darbe mekaniği, sonlu elemanlar analizi, ve kompozit malzemeler üzerine çalışmaktayım.
+
+Evli ve üç çocuk babasıyım.
