@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Yayınlar
 cms_exclude: true
 
 # View.

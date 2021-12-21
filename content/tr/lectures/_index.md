@@ -1,6 +1,6 @@
 ---
 widget: pages
-title: Lectures
+title: Dersler
 cms_exclude: true
 
 # View.
