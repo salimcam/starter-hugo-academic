@@ -9,7 +9,7 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
+tr:
   languageCode: tr
   contentDir: content/tr
 #  title: Chinese website title...
