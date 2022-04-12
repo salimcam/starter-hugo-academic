@@ -27,7 +27,7 @@ education:
   courses:
     - course: Doktora
       institution: Karadeniz Teknik Üniversitesi
-      year: ""
+      year: 2022
     - course: Yüksek Lisans
       institution: Erzincan Binali Yıldırım Üniversitesi
       year: 2016
