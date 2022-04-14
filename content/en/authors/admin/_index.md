@@ -1,5 +1,5 @@
 ---
-title: Salim ÇAM
+title: Dr. Salim ÇAM
 role: Research Assistant of Mechanical Engineering
 avatar_filename: avatar.jpeg
 bio: My research interests include adhesive joints, impact mechanics, finite
@@ -39,6 +39,6 @@ superuser: true
 highlight_name: true
 ---
 
-I am a research assistant in Mechanical Engineering Department at the Erzincan Binali Yıldırım University. I completed my MSc at the same university and my undergraduate studies at Uludağ University. Currently, I am working on my PhD thesis. My interests lie in adhesive joints, impact mechanics, finite element modeling, and composite materials.
+I am a research assistant in Mechanical Engineering Department at the Erzincan Binali Yıldırım University. I completed my undergraduate studies at the Uludağ University, MSc at the Erzincan Binali Yıldırım University and PhD at the Karadeniz Technical University. My interests lie in adhesive joints, impact mechanics, finite element modeling, and composite materials.
 
 I live with my wife, my sons, and my daughter. I am a proud dad of three monsters, tries to survive the struggle of existence in our house.

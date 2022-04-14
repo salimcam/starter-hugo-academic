@@ -1,5 +1,5 @@
 ---
-title: Salim ÇAM
+title: Dr. Salim ÇAM
 role: Araştırma Görevlisi (Makine Mühendisliği)
 avatar_filename: avatar.jpeg
 bio: Yapıştırma bağlantıları, darbe mekaniği, sonlu
@@ -39,6 +39,6 @@ superuser: true
 highlight_name: true
 ---
 
-Erzincan Binali Yıldırım Üniversitesi Makine Mühendisliği Bölümü'nde araştırma görevlisiyim. Yüksek lisansı aynı üniversitede, lisans eğitimimi ise Uludağ Üniversitesi'nde tamamladım. Şu anda doktora çalışmalarımı sürdürmekteyim. Yapıştırma bağlantıları, darbe mekaniği, sonlu elemanlar analizi, ve kompozit malzemeler üzerine çalışmaktayım.
+Erzincan Binali Yıldırım Üniversitesi Makine Mühendisliği Bölümü'nde araştırma görevlisiyim. Lisans eğitimimi Uludağ Üniversitesi'nde, yüksek lisans eğitimimi Erzincan Binali Yıldırım Üniversitesi'nde ve doktora eğitimimi Karadeniz Teknik Üniversitesi'nde tamamladım. Yapıştırma bağlantıları, darbe mekaniği, sonlu elemanlar analizi, ve kompozit malzemeler üzerine çalışmaktayım.
 
 Evli ve üç çocuk babasıyım.
